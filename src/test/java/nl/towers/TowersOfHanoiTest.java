@@ -1,8 +1,8 @@
-package nl.ing;
+package nl.towers;
 
 import org.junit.Test;
 
-import static nl.ing.TowersOfHanoiRecursive.solve;
+import static nl.towers.TowersOfHanoiRecursive.solve;
 import static org.junit.Assert.assertEquals;
 
 /**
